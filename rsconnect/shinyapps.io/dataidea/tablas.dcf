@@ -1,0 +1,13 @@
+name: tablas
+title: tablas
+username:
+account: dataidea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5170984
+bundleId: 5274395
+url: https://dataidea.shinyapps.io/tablas/
+when: 1637431466.96281
+lastSyncTime: 1637431466.96282
+asMultiple: FALSE
+asStatic: FALSE
